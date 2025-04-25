@@ -77,3 +77,5 @@ This project demonstrates a seamless integration of frontend and backend technol
 
 Overall, this real-time chat application showcases practical skills in full-stack development, real-time communication, and modern UI design, making it a valuable project for understanding the MERN stack and WebSocket-based applications.
  
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/8a1f2593-fcbe-4197-85cb-b6c9dbc25a7d)
